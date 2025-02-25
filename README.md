@@ -164,3 +164,7 @@ rm -rf ~/.ollama
 ### Guide Created by Hafeez Baig
 This guide was created and maintained by [Hafeez Baig](https://www.hafeezbaig.in).
 
+---
+
+### Contributing & Updates
+This guide is regularly updated, but technology evolves quickly. If you find outdated information or have improvements, please submit a **Pull Request (PR)** to keep it up to date. Contributions are always welcome!
